@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+### 🦾 Skills
+**🧑‍💻 Lang and Frameworks**
+
+![Python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white) ![TensorFlow](https://img.shields.io/badge/tensorflow-FF6F00.svg?&style=for-the-badge&logo=tensorflow&logoColor=white) ![pandas](https://img.shields.io/badge/pandas-150458.svg?&style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-013243.svg?&style=for-the-badge&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikitlearn-F7931E.svg?&style=for-the-badge&logo=scikitlearn&logoColor=white) ![SciPy](https://img.shields.io/badge/scipy-8CAAE6.svg?&style=for-the-badge&logo=scipy&logoColor=white) 
+
+**🛠️ Infra and Tools**
+
+![Amazon AWS](https://img.shields.io/badge/amazonaws-232F3E.svg?&style=for-the-badge&logo=amazonaws&logoColor=white) 
 <!--
 **hwan1111/hwan1111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
