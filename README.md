@@ -35,7 +35,7 @@
   - `Repo`: [trade-comovement-ai](https://github.com/hwan1111/trade-comovement-ai) (private)
   - `Keywords`: STL/Decomposition, Lead–Lag, Feature Engineering, LightGBM/Sklearn
 - **🤖 CV / RL**
-  - `Repo`: [computer-vision](https://github.com/hwan1111/Computer-Vision) · [deepracer](YOUR_REPO_LINK)
+  - `Repo`: [computer-vision](https://github.com/hwan1111/Computer-Vision)
   - `Keywords`: YOLO, Data Augmentation, Reward Design, Sim-to-Real thinking
 - **🧠 Fin Agent / LLM**
   - `Repo`: [Data-Analysis](https://github.com/hwan1111/Data-Analysis)
