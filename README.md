@@ -35,7 +35,7 @@
   - `Repo`: [trade-comovement-ai](https://github.com/hwan1111/trade-comovement-ai) (private)
   - `Keywords`: STL/Decomposition, Lead–Lag, Feature Engineering, LightGBM/Sklearn
 - **🤖 CV / RL**
-  - `Repo`: [computer-vision](https://github.com/hwan1111/Computer-Vision)
+  - `Repo`: [computer-vision](https://github.com/hwan1111/Computer-Vision) · [deepracer](YOUR_REPO_LINK)
   - `Keywords`: YOLO, Data Augmentation, Reward Design, Sim-to-Real thinking
 - **🧠 Fin Agent / LLM**
   - `Repo`: [Data-Analysis](https://github.com/hwan1111/Data-Analysis)
@@ -48,7 +48,7 @@
 
 ## 🦾 Skills
 ### 🧑‍💻 Lang & Frameworks
-![Python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white) ![TensorFlow](https://img.shields.io/badge/tensorflow-FF6F00.svg?&style=for-the-badge&logo=tensorflow&logoColor=white) ![pandas](https://img.shields.io/badge/pandas-150458.svg?&style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-013243.svg?&style=for-the-badge&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikitlearn-F7931E.svg?&style=for-the-badge&logo=scikitlearn&logoColor=white) ![SciPy](https://img.shields.io/badge/scipy-8CAAE6.svg?&style=for-the-badge&logo=scipy&logoColor=white)
+![Python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white) ![TensorFlow](https://img.shields.io/badge/tensorflow-FF6F00.svg?&style=for-the-badge&logo=tensorflow&logoColor=white) ![pandas](https://img.shields.io/badge/pandas-150458.svg?&style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-013243.svg?&style=for-the-badge&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikitlearn-F7931E.svg?&style=for-the-badge&logo=scikitlearn&logoColor=white) ![SciPy](https://img.shields.io/badge/scipy-8CAAE6.svg?&style=for-the-badge&logo=scipy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C.svg?&style=for-the-badge&logo=plotly&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0.svg?&style=for-the-badge&logo=python&logoColor=white)
 
 ### 🛠️ Infra & Tools
 ![Amazon AWS](https://img.shields.io/badge/amazonaws-232F3E.svg?&style=for-the-badge&logo=amazonaws&logoColor=white) ![Linux](https://img.shields.io/badge/linux-FCC624.svg?&style=for-the-badge&logo=linux&logoColor=000) ![Docker](https://img.shields.io/badge/docker-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white) ![Jupyter](https://img.shields.io/badge/jupyter-F37626.svg?&style=for-the-badge&logo=jupyter&logoColor=white)
@@ -58,7 +58,6 @@
 ## 🎯 Interests (off-code)
 - 🍸 술을 좋아함
 - ✈️ 여행 동선 짜기 (루트 최적화/일정 설계 좋아함)
-- 📚 SF/세계관 큰 소설 읽기 (요약/연결해서 이해하는 편)
 - ⛷️ 겨울엔 스키도 가끔
 
 ---
