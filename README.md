@@ -48,10 +48,17 @@
 
 ## 🦾 Skills
 ### 🧑‍💻 Lang & Frameworks
-![Python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white) ![TensorFlow](https://img.shields.io/badge/tensorflow-FF6F00.svg?&style=for-the-badge&logo=tensorflow&logoColor=white) ![pandas](https://img.shields.io/badge/pandas-150458.svg?&style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-013243.svg?&style=for-the-badge&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikitlearn-F7931E.svg?&style=for-the-badge&logo=scikitlearn&logoColor=white) ![SciPy](https://img.shields.io/badge/scipy-8CAAE6.svg?&style=for-the-badge&logo=scipy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C.svg?&style=for-the-badge&logo=plotly&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0.svg?&style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![TensorFlow](https://img.shields.io/badge/tensorflow-FF6F00.svg?&style=for-the-badge&logo=tensorflow&logoColor=white) ![pandas](https://img.shields.io/badge/pandas-150458.svg?&style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-013243.svg?&style=for-the-badge&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikitlearn-F7931E.svg?&style=for-the-badge&logo=scikitlearn&logoColor=white) ![SciPy](https://img.shields.io/badge/scipy-8CAAE6.svg?&style=for-the-badge&logo=scipy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C.svg?&style=for-the-badge&logo=plotly&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0.svg?&style=for-the-badge&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 
 ### 🛠️ Infra & Tools
-![Amazon AWS](https://img.shields.io/badge/amazonaws-232F3E.svg?&style=for-the-badge&logo=amazonaws&logoColor=white) ![Linux](https://img.shields.io/badge/linux-FCC624.svg?&style=for-the-badge&logo=linux&logoColor=000) ![Docker](https://img.shields.io/badge/docker-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white) ![Jupyter](https://img.shields.io/badge/jupyter-F37626.svg?&style=for-the-badge&logo=jupyter&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Linux](https://img.shields.io/badge/linux-FCC624.svg?&style=for-the-badge&logo=linux&logoColor=000) ![Docker](https://img.shields.io/badge/docker-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white) ![Jupyter](https://img.shields.io/badge/jupyter-F37626.svg?&style=for-the-badge&logo=jupyter&logoColor=white)
+### 🧠 Foundations (Math & CS)
+![Calculus](https://img.shields.io/badge/Calculus-Math-444?style=for-the-badge&logo=latex&logoColor=white)
+![Linear Algebra](https://img.shields.io/badge/Linear%20Algebra-Math-444?style=for-the-badge&logo=latex&logoColor=white)
+![Discrete Math](https://img.shields.io/badge/Discrete%20Math-Math-444?style=for-the-badge&logo=latex&logoColor=white)
+![Computer Science](https://img.shields.io/badge/Computer%20Science-Fundamentals-444?style=for-the-badge&logo=thealgorithms&logoColor=white)
+
 
 ---
 
