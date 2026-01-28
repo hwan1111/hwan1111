@@ -30,10 +30,6 @@
 ---
 
 ## 🧩 Featured Projects
-
-- **📊 Trade / Market Time-series**
-  - `Repo`: [trade-comovement-ai](https://github.com/hwan1111/trade-comovement-ai) (private)
-  - `Keywords`: STL/Decomposition, Lead–Lag, Feature Engineering, LightGBM/Sklearn
 - **🤖 CV / RL**
   - `Repo`: [computer-vision](https://github.com/hwan1111/Computer-Vision)
   - `Keywords`: YOLO, Data Augmentation, Reward Design, Sim-to-Real thinking
